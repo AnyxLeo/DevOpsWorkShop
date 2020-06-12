@@ -1,4 +1,4 @@
 function isAna (input) {
   return input === 'Ana'
 }
-module.export = isAna
+module.exports = isAna;
